@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Parag Nemade <pnemade AT redhat DOT com> -->
+<component type="font">
+  <id>hack-nerd</id>
+  <metadata_license>SIL</metadata_license>
+  <name>Hack Nerd</name>
+  <summary>A typeface designed for source code</summary>
+  <description>
+	  <p>
+	  A typeface designed for source code
+    </p>
+  </description>
+  <updatecontact>helio_at_kde_dot_org</updatecontact>
+  <url type="homepage">http://sourcefoundry.org/hack/</url>
+</component>
